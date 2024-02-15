@@ -1,0 +1,194 @@
+{
+  "Students": [
+    {
+      "id": "1",
+      "name": "Scott",
+      "location": "Usa",
+      "phone": "1234567890",
+      "courses": [
+        "C",
+        "C++"
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Scott123",
+      "location": "India",
+      "phone": "1234567891",
+      "courses": [
+        "Java",
+        "Python"
+      ]
+    },
+    {
+      "id": "3",
+      "name": "John",
+      "location": "France",
+      "phone": "1234567892",
+      "courses": [
+        "cypress",
+        "playwright"
+      ]
+    },
+    {
+      "id": "42bf",
+      "phone": "1234567890",
+      "name": "Scott",
+      "Courses": [
+        "c",
+        "C++"
+      ],
+      "location": "usa"
+    },
+    {
+      "id": "3b70",
+      "phone": "1234567890",
+      "name": "Scott",
+      "Courses": [
+        "c",
+        "C++"
+      ],
+      "location": "usa"
+    },
+    {
+      "id": "6dfd",
+      "phone": "1234567890",
+      "name": "Scott",
+      "Courses": [
+        "c",
+        "C++"
+      ],
+      "location": "usa"
+    },
+    {
+      "id": "f034",
+      "phone": "1234567890",
+      "name": "Scott",
+      "Courses": [
+        "C",
+        "C++"
+      ],
+      "location": "usa"
+    },
+    {
+      "id": "7d3a",
+      "phone": "1234567890",
+      "name": "Scott",
+      "Courses": [
+        "C",
+        "C++"
+      ],
+      "location": "usa"
+    },
+    {
+      "id": "ad6f",
+      "phone": "1234567890",
+      "name": "Scottabc",
+      "Courses": [
+        "C",
+        "C++"
+      ],
+      "location": "usa"
+    },
+    {
+      "id": "2d3a",
+      "courses": [
+        "C",
+        "C++"
+      ],
+      "phone": "1234567890",
+      "name": "Scottabc",
+      "location": "usa"
+    },
+    {
+      "id": "1670",
+      "courses": [
+        "C",
+        "C++"
+      ],
+      "phone": "1234567890",
+      "name": "Scottabc",
+      "location": "usa"
+    },
+    {
+      "id": "a66a",
+      "courses": [
+        "C",
+        "C++"
+      ],
+      "phone": "1234567890",
+      "name": "Scottabc",
+      "location": "usa"
+    },
+    {
+      "id": "1d0a",
+      "courses": [
+        "C",
+        "C++"
+      ],
+      "phone": "1234567890",
+      "name": "Scottabc",
+      "location": "usa"
+    },
+    {
+      "id": "2e7a",
+      "courses": [
+        "C",
+        "C++"
+      ],
+      "phone": "1234567890",
+      "name": "Scottabc",
+      "location": "usa"
+    },
+    {
+      "id": "5f29",
+      "courses": [
+        "C",
+        "C++"
+      ],
+      "phone": "1234567890",
+      "name": "Scottabc",
+      "location": "usa"
+    },
+    {
+      "id": "5d5e",
+      "courses": [
+        "C",
+        "C++"
+      ],
+      "phone": "1234567890",
+      "name": "Scottabc",
+      "location": "usa"
+    },
+    {
+      "id": "0e84",
+      "courses": [
+        "C",
+        "C++"
+      ],
+      "phone": "1234567890",
+      "name": "Scottabc",
+      "location": "usa"
+    },
+    {
+      "id": "0de8",
+      "courses": [
+        "C",
+        "C++"
+      ],
+      "phone": "1234567890",
+      "name": "Scottabc",
+      "location": "usa"
+    },
+    {
+      "id": "90ca",
+      "courses": [
+        "C",
+        "C++"
+      ],
+      "phone": "1234567890",
+      "name": "Scottabc",
+      "location": "usa"
+    }
+  ]
+}
